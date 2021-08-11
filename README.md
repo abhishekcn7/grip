@@ -1,5 +1,5 @@
 # grip
-NTERNSHIP AT SPARKS FOUNDATION
+INTERNSHIP AT SPARKS FOUNDATION
 
 Internship Organization: The Sparks Foundation
 
